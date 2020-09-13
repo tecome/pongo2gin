@@ -26,6 +26,9 @@ To render templates from a route, call c.HTML just as you would with
 regular Gin templates, the only difference is that you pass template
 data as a pongo2.Context instead of gin.H type.
 
+
+![Screen](https://raw.githubusercontent.com/stnc/pongo2gin/master/example/ginScreen.png)
+
 Basic Example
 -------------
 
