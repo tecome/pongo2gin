@@ -10,7 +10,7 @@ pongo2 is a Django-syntax like templating-language (official website).
 
 ## Installation  
 
-`go get "github.com/stnc/pongo2gin"`
+`go get "github.com/tecome/pongo2gin"`
 
 Requirements
 ------------
@@ -30,7 +30,7 @@ regular Gin templates, the only difference is that you pass template
 data as a pongo2.Context instead of gin.H type.
 
 
-![Screen](https://raw.githubusercontent.com/stnc/pongo2gin/master/example/ginScreen.png)
+![Screen](https://raw.githubusercontent.com/tecome/pongo2gin/master/example/ginScreen.png)
 
 Basic Example
 -------------
@@ -40,7 +40,7 @@ package main
 import (
 	"log"
 	"net/http"
-	"github.com/stnc/pongo2gin"
+	"github.com/tecome/pongo2gin"
 	"github.com/flosch/pongo2"
 	"github.com/gin-gonic/gin"
 )
