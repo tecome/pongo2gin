@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"github.com/stnc/pongo2gin"
-	"github.com/flosch/pongo2"
+	"github.com/tecome/pongo2gin"
+	"github.com/flosch/pongo2/v4"
 	"github.com/gin-gonic/gin"
 )
 
