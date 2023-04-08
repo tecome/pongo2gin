@@ -5,6 +5,12 @@ Package pongo2gin is a template renderer that can be used with the Gin web
 framework https://github.com/gin-gonic/gin it uses the Pongo2 template library
 https://github.com/flosch/pongo2
 
+The original code can be found on https://gitlab.com/go-box/pongo2gin this repository
+was copied a few years ago and all the original authors and copyright was shamelessly stripped.
+
+This is now a copy of that stolen code since I asked for the first copy to be taken down,
+please send patches to the original repo or rename this repo to something else,
+and please credit the original author. Don't make this out to be your own work.
 
 pongo2 is a Django-syntax like templating-language (official website).
 
